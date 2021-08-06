@@ -2,7 +2,7 @@
 
 ## What is this? Why?
 
-Based on the original design from Dandare - CPC Dandanator!Mini, this design proposes the adoption/integration of MX4 connector instead of the CPC standard 50 pin edge connector. This version then fits into the many expansion boards available up to now.
+Based on the original design from Dandare - CPC Dandanator!Mini, this design proposes the adoption/integration of MX4 connector instead of the Amstrad CPC standard 50 pin edge connector. This version then fits into the many expansion boards available up to now.
 
 This allows for the CPC expansion boards users to enjoy this hardware, together with rest of accessories without the need of unplugging them.
 
