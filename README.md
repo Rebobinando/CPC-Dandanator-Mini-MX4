@@ -57,6 +57,13 @@ All development of this version has been performed with Eagle 8.6.0. Schematics 
 
 This is the board installed onto the CPC expansion board:
 
+![BUS_Expansor](Pic/DD_MX4_Expansor_Inserted.jpg)
+
+PCB screenshot:
+
+![PCB_Top](Pic/DDMX4v1.2_Top_View.PNG)
+
+![PCB_Bottom](Pic/DDMX4v1.2_Bottom_View.PNG)
 
 ## Warning & Disclaimer
 If you want to build yourself, please proceed and read carefully all this information. Bear in mind that all the information in this project is published in good faith and for general information purpose only. I do not make any warranties about the completeness, reliability, and accuracy of this information. Any action you take upon the information you find here, is strictly at your own risk. I will not be liable for any losses and/or damages. 
