@@ -1,0 +1,28 @@
+Partlist exported from ... Dandanator CPC MX4 v1.2 Rwd.sch at 06/08/2021 21:31
+
+Part   Value              Device                Package                Description                                           MF MPN      OC_FARNELL OC_NEWARK SPICEPREFIX
+C1     100nF              C-EUC0805             C0805                  CAPACITOR, European symbol                                                             C          
+C2     10uF               C-EUC0805             C0805                  CAPACITOR, European symbol                                                             C          
+C3     10uF               C-EUC0805             C0805                  CAPACITOR, European symbol                                                             C          
+C4     100nF              C-EUC0805             C0805                  CAPACITOR, European symbol                                                             C          
+C5     100nF              C-EUC0805             C0805                  CAPACITOR, European symbol                                                             C          
+C6     10nF               C-EUC0805             C0805                  CAPACITOR, European symbol                                                             C          
+C7     22pF               C-EUC0805             C0805                  CAPACITOR, European symbol                                                             C          
+C8     22pF               C-EUC0805             C0805                  CAPACITOR, European symbol                                                             C          
+CH340G CH340G             CH340G                SOIC16                                                                                                                   
+IC1    LM1117-3.3         REG1117               SOT223                 800mA and 1A Low Dropout (LDO) Positive Regulator        REG1117  1097566    14P6981              
+IC2    SST39SF040         MICROCHIP_SST39SF040C S32                    CMOS EPROM                                                                                        
+IC3    XC9572XL           XC9572XL_44PLCCDIP    S44                    xc9536_pc44 XC9500 In-System Programmable CPLD Family                                             
+JP1                       PINHD-2X25            2X25                   PIN HEADER                                                                                        
+JP2                       PINHD-1X2             1X02                   PIN HEADER                                                                                        
+JP3                       PINHD-1X6             1X06                   PIN HEADER                                                                                        
+QG1    12 MHz             CRYSTAL_CRYSTALHC49S  CRYSTAL_HC49/S         CRYSTAL                                                           1667008    unknown              
+R1     10k                R-EU_R0805            R0805                  RESISTOR, European symbol                                                              R          
+R2     10k                R-EU_R0805            R0805                  RESISTOR, European symbol                                                              R          
+R3     10k                R-EU_R0805            R0805                  RESISTOR, European symbol                                                              R          
+SW1    Alternate          31-XX                 B3F-31XX               OMRON SWITCH                                             B3F-3100 959704     36M3582              
+SW2    Disable            1P2T-MSK12D19         1P2T-MSK12D19-DIP                                                                                                        
+SW3    Reset              31-XX                 B3F-31XX               OMRON SWITCH                                             B3F-3100 959704     36M3582              
+SW4    ON/OFF             1P2T-MSK12D19         1P2T-MSK12D19-DIP                                                                                                        
+U$1                       LOGO7BOTTOM           LOGO7_SK22                                                                                                               
+USB    MICRO-USB_B_US-205 MICRO-USB_B_US-205    MICRO-USB_B_US-205_DIP MINI USB-B R/A W/O POST 5 pol.                                                                    
