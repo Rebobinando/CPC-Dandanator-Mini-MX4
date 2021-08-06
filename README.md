@@ -6,9 +6,9 @@ Based on the original design from Dandare - CPC Dandanator!Mini, this design pro
 
 This allows for the CPC expansion boards users to enjoy this hardware, together with rest of accessories without the need of unplugging them.
 
-Original design and complete description are available at: http://www.dandare.es/Proyectos_Dandare/CPC_Dandanator%21_Mini.html
+Original design and complete description are available in the [Dandare Website](http://www.dandare.es/Proyectos_Dandare/CPC_Dandanator%21_Mini.html)
 
-More development details are available in VadeRetro forum: https://www.va-de-retro.com/foros/viewtopic.php?f=63&t=9113 
+More development details are available in [VadeRetro forum](https://www.va-de-retro.com/foros/viewtopic.php?f=63&t=9113) 
 
 ## Features
 
@@ -53,6 +53,8 @@ These are the main elements:
 
 ![Elements](Pic/RWD_Dandanator_ME.PNG)
 
+All development of this version has been performed with Eagle 8.6.0. Schematics and Board files are available, as well as Gerber files under below license agreement.
+
 This is the board installed onto the CPC expansion board:
 
 
@@ -70,4 +72,4 @@ Hope we are all enjoying them!
 
 ## Redistribution
 
-All development is Public Domain as the original one. For latest state, please check at http://www.dandare.es/Proyectos_Dandare/CPC_Dandanator%21_Mini.html
+All development is Public Domain as the original one. For latest state, please check at [Dandare website](http://www.dandare.es/Proyectos_Dandare/CPC_Dandanator%21_Mini.html)
