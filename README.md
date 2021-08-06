@@ -66,7 +66,7 @@ PCB screenshot:
 ![PCB_Bottom](Pic/DDMX4v1.2_Bottom_View.PNG)
 
 ## Warning & Disclaimer
-If you want to build yourself, please proceed and read carefully all this information. Bear in mind that all the information in this project is published in good faith and for general information purpose only. I do not make any warranties about the completeness, reliability, and accuracy of this information. Any action you take upon the information you find here, is strictly at your own risk. I will not be liable for any losses and/or damages. 
+If you want to build yourself, please proceed and read carefully all this information. A guide of assembly is available in VadeRetro forum [here](https://www.va-de-retro.com/foros/viewtopic.php?f=63&t=9113) . Bear in mind that all the information in this project is published in good faith and for general information purpose only. I do not make any warranties about the completeness, reliability, and accuracy of this information. Any action you take upon the information you find here, is strictly at your own risk. I will not be liable for any losses and/or damages. In case of doubts, do not hesitate to ask and I will try to help as far as I can!
 
 ## Thanks to
 
@@ -79,4 +79,4 @@ Hope we are all enjoying them!
 
 ## Redistribution
 
-All development is Public Domain as the original one. For latest state, please check at [Dandare website](http://www.dandare.es/Proyectos_Dandare/CPC_Dandanator%21_Mini.html)
+All development is Public Domain, as the original one. For latest state, please check at [Dandare website](http://www.dandare.es/Proyectos_Dandare/CPC_Dandanator%21_Mini.html)
