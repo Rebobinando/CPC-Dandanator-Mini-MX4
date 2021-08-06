@@ -27,7 +27,7 @@ EEPROM programming original software is also fully compatible. It is available i
 ## Bill of materials
 
 |Qty| Component     | Value               |  Package  |
--------------------------------------------------------
+|---|---------------|---------------------|-----------|
 | 3 | Capacitor     | 100nF               | SMD C0805 | 
 | 2 | Capacitor     | 10uF                | SMD C0805 |
 | 2 | Capacitor     | 22pF                | SMD C0805 |
@@ -46,7 +46,6 @@ EEPROM programming original software is also fully compatible. It is available i
 | 1 | MX4 connector | DC3-50P Right Angle | DIP       |
 | 1 | Socket        | PLCC32              | DIP       |
 | 1 | Socket        | PLCC44              | DIP       |
--------------------------------------------------------
 
 ## Board layout
 
