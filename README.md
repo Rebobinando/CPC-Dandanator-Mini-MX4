@@ -1,4 +1,4 @@
-# CPC Dandanator!Mini MX4
+# CPC Dandanator!Mini MX4 (*Under construction*)
 
 ## What is this? Why?
 
@@ -50,6 +50,8 @@ EEPROM programming original software is also fully compatible. It is available i
 ## Board layout
 
 These are the main elements:
+
+![CPC-Dandanator-Mini-MX4] (Pic/RWD_Dandanator_ME.png)
 
 This is the board installed onto the CPC expansion board:
 
