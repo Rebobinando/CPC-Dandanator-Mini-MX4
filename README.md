@@ -1,4 +1,4 @@
-# CPC Dandanator!Mini MX4 (*Under construction*)
+# CPC Dandanator!Mini MX4
 
 ## What is this? Why?
 
