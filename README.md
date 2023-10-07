@@ -20,7 +20,7 @@ Additionally to the features available in the original design, I added the addit
 - DIP oscillator instead of SMD one.
 - Additional switch to switch on /switch off the board.
 
-CPLD programing is fully compatible with original version available at Dandare website.
+CPLD programming is fully compatible with original version available at Dandare website.
 
 EEPROM programming original software is also fully compatible. It is available in Dandare website too.
 
